@@ -2,11 +2,25 @@ body {
     font-family: 'Ubuntu', sans-serif;
 }
 
-/*-----------HEADER-----------*/
+.callout-container {
+    height: 100vh;
+
+    background: url("../images/callout-bg-img.jpg") no-repeat bottom right fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+/*-----------NAVIGATION-----------*/
 
 .navbar-brand {
     font-family: 'Orbitron', sans-serif;
 }
+
+/*-----------CALLOUT---------*/
+
+
 
 /*-----------FOOTER-----------*/
 
@@ -16,4 +30,14 @@ footer {
 li a i {
     font-size: 25px;
     color: #f9f9f9;
+}
+
+.find-us-social {
+    margin-top: .75rem;
+    margin-bottom: 0.1rem;
+}
+
+.copyright {
+    margin-bottom: 0.2rem;
+    font-size: 10px;
 }
