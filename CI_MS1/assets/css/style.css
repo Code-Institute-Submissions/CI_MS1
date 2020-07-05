@@ -2,6 +2,15 @@ body {
     font-family: 'Ubuntu', sans-serif;
 }
 
+/*-----------NAVIGATION-----------*/
+
+.navbar-brand {
+    font-family: 'Orbitron', sans-serif;
+}
+
+/*-----------CALLOUT---------*/
+
+
 .callout-container {
     height: 100vh;
 
@@ -12,15 +21,11 @@ body {
     background-size: cover;
 }
 
-/*-----------NAVIGATION-----------*/
+/*-----------TESTIMONIALS------*/
 
-.navbar-brand {
-    font-family: 'Orbitron', sans-serif;
+.quote-card {
+    border: 1px solid #212529;
 }
-
-/*-----------CALLOUT---------*/
-
-
 
 /*-----------FOOTER-----------*/
 
