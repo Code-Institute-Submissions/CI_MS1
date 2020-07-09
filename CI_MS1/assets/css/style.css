@@ -57,3 +57,17 @@ li a i {
     margin-bottom: 0.2rem;
     font-size: 10px;
 }
+
+/*------Hover.css-------*/
+
+.hvr-back-pulse {
+    border-radius: .3rem;
+    }
+
+/*use this bit for background when you're ready to decide on the exact overall blue-theme color for the site
+
+.hvr-back-pulse:before {
+    background:;
+    }
+
+*/
