@@ -1,5 +1,6 @@
 body {
     font-family: 'Ubuntu', sans-serif;
+    background-color: #212529;
 }
 
 /*-----------NAVIGATION-----------*/
@@ -19,9 +20,17 @@ body {
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
+
+
+
 }
 
 /*-----------TESTIMONIALS------*/
+
+.testimonials-header {
+    font-family: 'Orbitron', sans-serif;
+    color: #f9f9f9;
+}
 
 .media {
     border-radius: .3rem;
@@ -41,11 +50,26 @@ body {
 /*-----------FOOTER-----------*/
 
 footer {
-    color: 	#f9f9f9;
-}
-li a i {
-    font-size: 25px;
     color: #f9f9f9;
+}
+
+.find-us-social-header {
+    font-family: 'Orbitron', sans-serif;
+}
+
+li a i {
+    font-size: 22px;
+    color: #f9f9f9;
+
+    transition: all 0.35s ease-in-out;
+    -moz-transition: all 0.35s ease-in-out;
+    -webkit-transition: all 0.35s ease-in-out;
+    -o-transition: all 0.35s ease-in-out;
+
+}
+
+li a i:hover {
+    color: #17a2b8;
 }
 
 .find-us-social {
@@ -71,3 +95,10 @@ li a i {
     }
 
 */
+
+/*------------LOCATIONS-----------*/
+
+.locations-img-container {
+    display: flex;
+    justify-content: center;
+}
