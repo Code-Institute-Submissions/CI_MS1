@@ -113,3 +113,10 @@ figcaption {
     height: 15vw;
     object-fit: cover;
 }
+
+
+/*-------------ABOUTUS-------------*/
+
+.aboutus-text {
+    color: #f9f9f9;
+}
