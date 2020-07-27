@@ -3,6 +3,16 @@ body {
     background-color: #212529;
 }
 
+.page-header-text {
+    color: #f9f9f9;
+    font-family: 'Orbitron', sans-serif;
+}
+
+.white-text {
+    color: #f9f9f9;
+}
+
+
 /*-----------NAVIGATION-----------*/
 
 .navbar-brand {
@@ -20,9 +30,10 @@ body {
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
+}
 
-
-
+.jumbotron {
+    background-color: #212529;
 }
 
 /*-----------TESTIMONIALS------*/
@@ -39,7 +50,7 @@ body {
 
 .blockquote p {
     font-size: 15px;
-    color: white;
+    color: #f9f9f9;
     margin-top: 0;
     margin-bottom: 0;
     padding-top: 0;
@@ -108,14 +119,25 @@ figcaption {
     color: #f9f9f9;
 }
 
+.opening-hours {
+    font-size: 14px;
+    margin: 0;
+}
+
 /*-------------ABOUTUS-------------*/
+
 
 .nav-pills .nav-link.active {
     background-color: #17a2b8;
 }
 
+a {
+    color: #f9f9f9;
+}
+
 a:hover {
     color: #17a2b8;
+    text-decoration: none;
 }
 
 .aboutus-text {
@@ -128,8 +150,17 @@ a:hover {
     font-size: 16px;
 }
 
+/*
 .tab-pane {
     padding: 3px;
     border-radius: .3rem;
     background-color: #17a2b8;
+}
+*/
+
+/*------------CONTACT----------*/
+
+.center-contact {
+    margin: 0 auto;
+    max-width: 70%;
 }
