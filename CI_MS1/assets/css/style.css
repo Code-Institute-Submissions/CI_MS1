@@ -1,6 +1,7 @@
 body {
     font-family: 'Ubuntu', sans-serif;
     background-color: #212529;
+    min-height: 100vh;
 }
 
 .page-header-text {
