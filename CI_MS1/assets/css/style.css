@@ -98,14 +98,6 @@ li a i:hover {
     border-radius: .3rem;
     }
 
-/*use this bit for background when you're ready to decide on the exact overall blue-theme color for the site
-
-.hvr-back-pulse:before {
-    background:;
-    }
-
-*/
-
 /*------------LOCATIONS-----------*/
 
 .locations-img-container {
@@ -148,14 +140,6 @@ a:hover {
     font-family: 'Orbitron', sans-serif;
     font-size: 16px;
 }
-
-/*
-.tab-pane {
-    padding: 3px;
-    border-radius: .3rem;
-    background-color: #17a2b8;
-}
-*/
 
 /*------------CONTACT----------*/
 
