@@ -91,9 +91,9 @@ Wireframes were drafted on MS Paint. [Link](https://github.com/ssruoh/CI_MS1/blo
 
 Website code was run through W3C Markup Validator and W3C CSS Validator to avoid syntax errors.
 
-W3C Markup Validator [Results](link)
+W3C Markup Validator [Results](https://github.com/ssruoh/CI_MS1/tree/master/w3c_validation_results)
 
-W3C CSS Validator [Results](link)
+W3C CSS Validator [Results](https://github.com/ssruoh/CI_MS1/tree/master/w3c_validation_results)
 
 The website was tested in Google Chrome, Mozilla Firefox, Safari, Internet Explorer and Microsoft Edge browsers.
 The website has been viewed on devices of various sizes, such as Iphone 7, Samsung Galaxy J6, laptop & desktop.
