@@ -95,11 +95,11 @@ W3C Markup Validator [Results](link)
 
 W3C CSS Validator [Results](link)
 
-The website was tested in Google Chrome, Mozilla Firefox, Safari and Internet Explorer browsers.
+The website was tested in Google Chrome, Mozilla Firefox, Safari, Internet Explorer and Microsoft Edge browsers.
 The website has been viewed on devices of various sizes, such as Iphone 7, Samsung Galaxy J6, laptop & desktop.
 
 **Known Issues**
-
+* The Ascendant Fitness logo does not appear appropriately centered on some mobile devices when the dropdown menu goes into effect.
 * The Hero Image on the front page appears twitchy when scrolling down the page on Internet Explorer 11.
 * The footer appears to not stick correctly on Contact and About Us pages on larger screen sizes on Internet Explorer 11.
 
