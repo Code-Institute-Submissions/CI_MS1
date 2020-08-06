@@ -20,7 +20,7 @@ This is the website for Ascendant Fitness. The business provides sports coaching
 
 ** **
 
-#### Design
+## Design
 
 **Color Scheme**
 
@@ -34,11 +34,15 @@ The site uses two fonts, Orbitron and Ubuntu. Orbitron is used for titles, heade
 
 The background hero image goes together well with the color scheme of the page and reflects the facilities provided by Ascendant Fitness. The rest of the pictures are either profile images on customer reviews or more images of the facilities on the Locations page.
 
-#### Wireframes
+** **
+
+## Wireframes
 
 Wireframes were drafted on MS Paint. [Link](https://github.com/ssruoh/CI_MS1/blob/master/wireframes.pdf)
 
-##### Features
+** **
+
+## Features
 
 * The site is responsive on all screen sizes.
 * Each page includes a navigation bar to allow for site navigation.
@@ -55,12 +59,16 @@ Wireframes were drafted on MS Paint. [Link](https://github.com/ssruoh/CI_MS1/blo
 * New page for a gallery with images of trainers and customers.
 * Staff page.
 
-#### Languages used
+** **
+
+## Languages used
 
 * HTML5
 * CSS3
 
-#### Frameworks, Libraries & programs
+** **
+
+## Frameworks, Libraries & programs
 
 1. Bootstrap 4.5:
 * Used for responsiveness and styling.
@@ -77,7 +85,9 @@ Wireframes were drafted on MS Paint. [Link](https://github.com/ssruoh/CI_MS1/blo
 7. Github:
 * Used to store the website’s code after pushing from Git.
 
-#### Testing
+** **
+
+## Testing
 
 Website code was run through W3C Markup Validator and W3C CSS Validator to avoid syntax errors.
 
@@ -90,3 +100,61 @@ The website has been viewed on devices of various sizes, such as Iphone 7, Samsu
 
 **Known Issues**
 
+* The Hero Image on the front page appears twitchy when scrolling down the page on Internet Explorer 11.
+* The footer appears to not stick correctly on Contact and About Us pages on larger screen sizes on Internet Explorer 11.
+
+** **
+
+## Testing User Requirements In UX section
+
+**First Time Visitors**
+
+>First time visitors want to understand what the service is, what they can offer and how they operate.
+
+* When entering the site, users first see a large callout informing them where they have landed, and what the organisation does. A button directing them to the About Us section is prominently displayed to direct them to a source of more detailed information.
+
+>First time visitors want to be able to navigate the site easily to find what they need.
+
+* The entire site is designed to be very clear and intuitive in terms of navigation. The Callout includes a link to the About Us page, where the information in the Callout is expounded upon.
+
+* In the About Us section, the user can navigate three clearly marked tabs that explain the primary facets of the training program and instructions for getting started, and the final tab includes a button directing the user to the Contact page.
+
+* By the time the user has reached the Contact page, the purpose of the form and what they should include in it is known. All of these pages can also be found in the navigation bar, in addition to a Locations link where the user may find the physical locations of the service.
+
+> First time visitors want to look at testimonials and the service’s online presence to determine whether they are reputable and what kinds experiences previous users have had with them.
+
+* The main page includes customer reviews for visitors to examine straight away upon entering the site.
+
+* The footer includes copyright information and social media links for users who want to review the online presence of the service for things such as updates or more customer reviews.
+
+**Returning Visitors**
+
+>Returning visitors want to easily check for things such as updates, social media links and opening times.
+
+* The callout is an optimal place for updates, and social media links are available in the footer. The Locations page will inform visitors about current opening times.
+
+** **
+
+## Credits
+
+**Code**
+
+**Bootstrap4**: Various Bootstrap Library resources were used throughout the site.
+
+The code for placing the footer to the bottom of the page for pages without a full viewport height of content uses code from [this Stack Overflow post](https://stackoverflow.com/questions/46722697/bootstrap-4-sticky-footer-not-sticking).
+
+**Content**
+
+Site content was written by the developer.
+
+**Media**
+
+The images used for the site were obtained from Google Images.
+
+**Acknowledgments**
+
+Code Institute Tutors for their support.
+
+My Mentor for ideas and feedback.
+
+Friends for helping to test the site.
