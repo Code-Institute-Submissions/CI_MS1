@@ -105,6 +105,50 @@ The website has been viewed on devices of various sizes, such as Iphone 7, Samsu
 
 ** **
 
+## Deployment
+
+**Github Pages**
+
+The project was published on Github Pages with the following steps:
+1. Login to Github and locate the [repository](https://github.com/ssruoh/CI_MS1)
+2. Locate the Settings button of the repository
+3. Scroll down the Settings page to the Github Pages section
+4. Under Source, select "Branch: master" from the dropdown menu
+5. Click Save, the page will refresh
+6. Scroll down to the Github Pages section again and locate the published link to the [site](https://ssruoh.github.io/CI_MS1/)
+
+**Forking The repository**
+
+The a copy of the Github repository can be forked to another account for viewing or editing without affecting the original one with the following steps:
+
+1. Login to Github and locate the [repository](https://github.com/ssruoh/CI_MS1)
+2. On top right, right under the Account menu and Notifications, click on the Fork button. This will create a copy of the repository to your Github account.
+
+**Creating A Local Clone**
+
+1. Login to Github and locate the [repository](https://github.com/ssruoh/CI_MS1)
+2. Click on the green Code button
+3. Click on the clipboard icon under "Clone with HTTPS" to copy the link
+4. Open Git Bash
+5. Change the current working directory to whereever you want the clone to be created.
+6. Type `git clone` and paste the URL you copied from the clipboard:
+
+```
+$ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
+```
+
+7. Press Enter to create a local clone.
+
+```
+$ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
+> Cloning into `Spoon-Knife`...
+> remote: Counting objects: 10, done.
+> remote: Compressing objects: 100% (8/8), done.
+> remove: Total 10 (delta 1), reused 10 (delta 1)
+> Unpacking objects: 100% (10/10), done.
+```
+** **
+
 ## Testing User Requirements In UX section
 
 **First Time Visitors**
