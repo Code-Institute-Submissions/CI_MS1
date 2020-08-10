@@ -117,9 +117,9 @@ The project was published on Github Pages with the following steps:
 5. Click Save, the page will refresh
 6. Scroll down to the Github Pages section again and locate the published link to the [site](https://ssruoh.github.io/CI_MS1/)
 
-**Forking The repository**
+**Forking The Repository**
 
-The a copy of the Github repository can be forked to another account for viewing or editing without affecting the original one with the following steps:
+The copy of the Github repository can be forked to another account for viewing or editing without affecting the original one with the following steps:
 
 1. Login to Github and locate the [repository](https://github.com/ssruoh/CI_MS1)
 2. On top right, right under the Account menu and Notifications, click on the Fork button. This will create a copy of the repository to your Github account.
